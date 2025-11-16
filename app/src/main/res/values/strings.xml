@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MAPEO</string>
+    <string name="app_title">Buscador de Direcciones</string>
+    <string name="address_hint">Ingresa una dirección</string>
+    <string name="search_button">Buscar</string>
+    <string name="map_type_label">Tipo de Mapa</string>
+    <string name="location_permission_required">Se requieren permisos de ubicación</string>
+    <string name="location_not_found">Dirección no encontrada</string>
+    <string name="location_found">Ubicación encontrada</string>
+    <string name="search_error">Error al buscar dirección</string>
+    <string name="permissions_granted">Permisos concedidos</string>
+    <string name="permissions_denied">Permisos denegados</string>
+    <string name="enter_address">Por favor ingresa una dirección</string>
+    
+    <!-- Tipos de mapa -->
+    <string name="map_normal">Normal</string>
+    <string name="map_topographic">Topográfico</string>
+    <string name="map_transport">Transporte</string>
+    <string name="map_wiki">Wiki</string>
+</resources>
